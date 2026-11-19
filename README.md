@@ -1,31 +1,29 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="header" />
+  <img src="header.svg" width="100%" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=melisauslu&label=ZİYARETÇİ&color=00ff41&style=flat-square&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/github/followers/melisauslu?label=TAKİPÇİ&style=flat-square&color=00ff41&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/ODAK-VERİ_BİLİMİ_·_ML_·_DL-00ff41?style=flat-square&labelColor=0d0d0d" />
+  <img src="https://komarev.com/ghpvc/?username=melisauslu&label=PROFILE%20VIEWS&color=00ff41&style=flat-square&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/FOCUS-DATA_SCIENCE_·_ML_·_DL-00ff41?style=flat-square&labelColor=0d0d0d" />
+  <a href="mailto:melisauslu463@gmail.com"><img src="https://img.shields.io/badge/EMAIL-melisauslu463@gmail.com-00ff41?style=flat-square&labelColor=0d0d0d&logo=gmail&logoColor=00ff41" /></a>
 </p>
 
 ---
 
 ```python
-class Ben:
-    isim      = "[ADIN]"
-    bolum     = "[BÖLÜMÜN]"
-    konum     = "Türkiye 🇹🇷"
-    ilgi      = ["Veri Bilimi",
-                 "Makine Öğrenmesi",
-                 "Derin Öğrenme"]
-    odak      = "[şu an çalıştığın proje]"
-    ogreniyor = "[şu an öğrendiğin konu]"
-    iletisim  = "[e-posta / LinkedIn]"
+class Me:
+    name      = "Melisa"
+    major     = "Computer Engineering"
+    location  = "Türkiye 🇹🇷"
+    interests = ["Data Science",
+                 "Machine Learning",
+                 "Deep Learning"]
+    contact   = "melisauslu463@gmail.com"
 ```
 
 ---
 
-<h2 align="center">⟨ YAPAY ZEKÂ & VERİ BİLİMİ ⟩</h2>
+<h2 align="center">⟨ AI & DATA SCIENCE ⟩</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&theme=dark" />
@@ -42,7 +40,7 @@ class Ben:
   <img src="https://img.shields.io/badge/Hugging_Face-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=00ff41" />
 </p>
 
-<h3 align="center">⟨ DİĞER TEKNOLOJİLER ⟩</h3>
+<h3 align="center">⟨ OTHER TECHNOLOGIES ⟩</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,cpp,cs,dart,kotlin&theme=dark" />
@@ -54,11 +52,11 @@ class Ben:
 
 ---
 
-<h2 align="center">⟨ GITHUB İSTATİSTİKLERİ ⟩</h2>
+<h2 align="center">⟨ GITHUB STATS ⟩</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=melisauslu&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=9effa9&icon_color=00ff41&ring_color=00ff41&rank_icon=github&custom_title=İstatistikler" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisauslu&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=9effa9&custom_title=En%20Çok%20Kullanılan%20Diller&langs_count=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=melisauslu&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=9effa9&icon_color=00ff41&ring_color=00ff41&rank_icon=github&custom_title=Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisauslu&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=9effa9&custom_title=Top%20Languages&langs_count=6" />
 </p>
 
 <p align="center">
@@ -66,11 +64,7 @@ class Ben:
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=melisauslu&bg_color=0d0d0d&color=9effa9&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=Aktivite%20Grafiği" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melisauslu&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=melisauslu&bg_color=0d0d0d&color=9effa9&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=Contribution%20Graph" />
 </p>
 
 ---
